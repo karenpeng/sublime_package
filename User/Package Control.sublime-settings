@@ -1,0 +1,12 @@
+{
+	"installed_packages":
+	[
+		"All Autocomplete",
+		"BracketHighlighter",
+		"JsFormat",
+		"JSHint",
+		"Package Control",
+		"Processing",
+		"SublimeLinter"
+	]
+}
